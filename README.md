@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://avatars.githubusercontent.com/u/43334832?v=4" height="200"/>
-</p>
+</p> -->
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=kioko91&color=blue" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=kimeu16&color=blue" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-24-blue" />
@@ -15,7 +15,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anthony Kimeu </h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0775F7&width=435&lines=Software+Engineer;Full-Stack+Developer;Android+Developer;AWS+Certified+Cloud+Practitioner;Active+Learner%2FResearcher" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0775F7&width=435&lines=Software+Engineer;Full-Stack+Developer;Android+Developer;Active+Learner%2FResearcher" alt="Typing SVG" /></a>
 </p>
 
 <p align = "center">
@@ -38,7 +38,7 @@
 - A passionate Full-Stack developer.
 - Film and Anime lover during my spare time.
 - Currently learning Flutter and Typescript.
-- Personal website [link](https://kioko91-portfolio.vercel.app/)
+<!-- - Personal website [link](https://kioko91-portfolio.vercel.app/) -->
 - I’m currently open for any Intern roles or new entry-level job opportunities. This is [my resume](https://drive.google.com/uc?export=download&id=1C8-2XiZQ_ySII3XfCHpimY_GWqEp0Jdx)
 
 <br><br>
