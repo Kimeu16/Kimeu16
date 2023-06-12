@@ -1,6 +1,7 @@
-<!-- <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/43334832?v=4" height="200"/>
-</p> -->
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
 <br>
 
 <p align="left"> 
