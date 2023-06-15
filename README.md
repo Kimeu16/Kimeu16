@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=kimeu16&color=blue" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
+
   <img src="https://img.shields.io/badge/Focus-Web%20Development%20%26%20Android%20Development-blue" />
   <img src="https://img.shields.io/badge/Lives-Nairobi-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Swahili-blue" />
